@@ -1,4 +1,6 @@
-$("#accordion").accordion();
+$("ul").sortable();
+
+// $("#accordion").accordion();
 
 // $("#square").draggable();
 // $("#green").draggable();
